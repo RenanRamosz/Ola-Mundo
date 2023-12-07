@@ -5,4 +5,4 @@ Primeiro repositório do curso Git e Github do curso em vídeo.
 
 Essa linha eu adicionei diretamente no site Github.
 
-Palavras chaves: commit; push; pull origin; issues.
+Palavras chaves: commit;origin;push;pull origin;issues.
